@@ -1,0 +1,2 @@
+#!/usr/bin/execlineb -P
+redirfd -u 0 /var/run/stdout cat
