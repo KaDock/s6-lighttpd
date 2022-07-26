@@ -1,2 +1,2 @@
-#!/usr/bin/execlineb -P
+#!/command/execlineb -P
 fdmove -c 1 2 redirfd -u 0 /var/run/stderr cat
